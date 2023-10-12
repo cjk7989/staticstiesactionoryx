@@ -40,7 +40,7 @@ inputs:
   config_file_location:
     description: "Directory location where the staticwebapp.config.json file can be found in the source code"
     required: false
-  verbose:
+  tmp_verbose_lol:
     description: "Enables verbose logging"
     required: false
 outputs:
